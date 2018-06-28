@@ -1,1 +1,1 @@
-# the school project with java to understand the dao and  factory pattern
+# the garage project with java to understand the oop with java
